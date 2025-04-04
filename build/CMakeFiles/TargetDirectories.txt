@@ -1,0 +1,3 @@
+/home/joe123/Desktop/assigemnt 1/CS2-Calculator-Project/build/CMakeFiles/calculator_app.dir
+/home/joe123/Desktop/assigemnt 1/CS2-Calculator-Project/build/CMakeFiles/edit_cache.dir
+/home/joe123/Desktop/assigemnt 1/CS2-Calculator-Project/build/CMakeFiles/rebuild_cache.dir

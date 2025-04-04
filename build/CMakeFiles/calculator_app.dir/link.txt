@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/calculator_app.dir/calculator.cpp.o CMakeFiles/calculator_app.dir/expression_parser.cpp.o CMakeFiles/calculator_app.dir/test.cpp.o -o calculator_app 
